@@ -1,0 +1,24 @@
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Asus\Downloads\Squelette\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Wassim\Desktop\examin dot\Squelette\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
